@@ -55,6 +55,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sngoveni/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasngoveni@gmail.com)  
+[![Trailhead](https://img.shields.io/badge/Trailhead-179CDF?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/sasekani)
 
 ---
 
